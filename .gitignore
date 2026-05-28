@@ -1,0 +1,10 @@
+*.o
+*.exe
+database.dat
+.vscode/
+compile_output.txt
+database.dat
+*.o
+*.exe
+Workflow_Diagrams.md
+Test_Report.md
