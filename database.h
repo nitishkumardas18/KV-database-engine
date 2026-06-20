@@ -29,7 +29,7 @@ typedef struct Record {
 } Record;
 
 /**
- * Global Database Head Pointer
+ * Global Database Head Pointer 
  * ----------------------------------------------------------------------------
  * `extern` keyword means this variable is declared here but defined elsewhere (in database.c).
  * Other files (like storage.c) can access `head` to traverse the list for saving/loading.

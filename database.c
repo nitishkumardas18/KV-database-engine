@@ -188,7 +188,6 @@ void free_database()
 {
     Record *current = head;
     Record *next_node;
-
     while (current != NULL)
     {
         // We MUST save the next pointer BEFORE freeing current
